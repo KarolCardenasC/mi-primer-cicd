@@ -4,7 +4,8 @@
   "description": "Lab de CI/CD - Primer pipeline en la nube",
   "main": "index.js",
   "scripts": {
-  "test": "jest"
+  "test": "jest",
+  "start": "node app.js"
   },
   "repository": {
     "type": "git",
