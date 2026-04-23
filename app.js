@@ -4,7 +4,7 @@ const express = require('express');
 const app = express();
 
 function sumar(a, b) {
-  return a * b;   // ← cambiamos + por *
+  return a + b;
 }
 
 app.get('/', (req, res) => {
