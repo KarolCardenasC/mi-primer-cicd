@@ -8,7 +8,7 @@ function sumar(a, b) {
 }
 
 app.get('/', (req, res) => {
-  res.send('Hola Mundo desde mi primer pipeline CI/CD');
+  res.send('Hola Arquitectos — pipeline CI/CD funcionando al 100%');
 });
 
 app.get('/sumar/:a/:b', (req, res) => {
