@@ -1,0 +1,25 @@
+{
+  "name": "mi-primer-cicd",
+  "version": "1.0.0",
+  "description": "Lab de CI/CD - Primer pipeline en la nube",
+  "main": "index.js",
+  "scripts": {
+  "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarolCardenasC/mi-primer-cicd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/KarolCardenasC/mi-primer-cicd/issues"
+  },
+  "homepage": "https://github.com/KarolCardenasC/mi-primer-cicd#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "jest": "^30.3.0"
+  }
+}
